@@ -1,6 +1,6 @@
 import sys
 
-n = int(sys.stdin.readline())
+num = int(sys.stdin.readline())
 
 def fibonacci(num):
     if num == 0:
