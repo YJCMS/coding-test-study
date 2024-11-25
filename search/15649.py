@@ -1,4 +1,4 @@
-# 백트래킹, dfs
+# dfs
 import sys
 
 def dfs():
